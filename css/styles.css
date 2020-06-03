@@ -20,10 +20,21 @@
   margin: 0px auto;
   background: #9575cd;
   color: floralwhite;
+  border-radius: 0;
 }
 
 address {
   font-size: 80%;
   margin: 0px;
   color: #0f0f0f;
+}
+.navbar-dark {
+  background-color: #512da8;
+}
+
+body {
+  padding-top: 50px;
+}
+.breadcrumb {
+  background-color: transparent;
 }
